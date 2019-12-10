@@ -1,0 +1,213 @@
+GameId;blue_Qty;blue_Model;yellow_Qty;yellow_Model;orange_Qty;orange_Model;red_Qty;red_Model
+1;2;Standard Workers;4;Standard Workers;6;Standard Workers;8;Standard Workers
+2;2;Standard Workers;4;Standard Workers;6;Standard Workers;8;Standard Workers
+3;2;Standard Workers;4;Standard Workers;6;Standard Workers;8;Standard Workers
+4;2;Standard Workers;4;Standard Workers;6;Standard Workers;8;Standard Workers
+5;2;Standard Workers;4;Standard Workers;6;Standard Workers;8;Standard Workers
+6;2;Standard Workers;4;Standard Workers;6;Standard Workers;8;Standard Workers
+7;2;Standard Tanks;2;Standard Tanks;6;Standard Tanks;8;Standard Tanks
+8;2;Standard Tanks;2;Standard Tanks;6;Standard Tanks;8;Standard Tanks
+9;2;Standard Tanks;2;Standard Tanks;6;Standard Tanks;8;Standard Tanks
+10;2;Standard Tanks;2;Standard Tanks;6;Standard Tanks;8;Standard Tanks
+11;2;Standard Hunters;2;Standard Hunters;6;Standard Hunters;8;Standard Hunters
+12;2;Standard Hunters;2;Standard Hunters;6;Standard Hunters;8;Standard Hunters
+13;2;Standard Hunters;2;Standard Hunters;6;Standard Hunters;8;Standard Hunters
+14;2;Standard Hunters;2;Standard Hunters;6;Standard Hunters;8;Standard Hunters
+15;2;Standard Hunters;2;Standard Hunters;6;Standard Hunters;8;Standard Hunters
+16;1;Spoiler Abomination;1;Spoiler Abomination;1;Spoiler Abomination;1;Spoiler Abomination
+17;1;Spoiler Abomination;1;Spoiler Abomination;1;Spoiler Abomination;1;Spoiler Abomination
+18;1;Spoiler Abomination;1;Spoiler Abomination;1;Spoiler Abomination;1;Spoiler Abomination
+19;1;Spoiler Abomination;1;Spoiler Abomination;1;Spoiler Abomination;1;Spoiler Abomination
+20;1;Spoiler Abomination;1;Spoiler Abomination;1;Spoiler Abomination;1;Spoiler Abomination
+21;1;Spoiler Abomination;1;Spoiler Abomination;1;Spoiler Abomination;1;Spoiler Abomination
+22;1;Standard Worker;1;Standard Worker;1;Standard Worker;1;Standard Worker
+23;2;Standard Workers;2;Standard Workers;2;Standard Workers;2;Standard Workers
+24;2;Standard Tank;1;Standard Tank;1;Standard Tank;1;Standard Tank
+25;2;Standard Hunters;1;Standard Hunter;1;Standard Hunter;1;Standard Hunter
+26;4;Standard Workers;6;Standard Workers;8;Standard Workers;10;Standard Workers
+27;4;Standard Workers;6;Standard Workers;8;Standard Workers;10;Standard Workers
+28;4;Standard Workers;6;Standard Workers;8;Standard Workers;10;Standard Workers
+29;4;Standard Workers;6;Standard Workers;8;Standard Workers;10;Standard Workers
+30;4;Standard Workers;6;Standard Workers;8;Standard Workers;10;Standard Workers
+31;4;Standard Workers;6;Standard Workers;8;Standard Workers;10;Standard Workers
+32;4;Standard Tanks;4;Standard Tanks;6;Standard Tanks;8;Standard Tanks
+33;4;Standard Tanks;4;Standard Tanks;6;Standard Tanks;8;Standard Tanks
+34;4;Standard Tanks;4;Standard Tanks;6;Standard Tanks;8;Standard Tanks
+35;4;Standard Tanks;4;Standard Tanks;6;Standard Tanks;8;Standard Tanks
+36;4;Standard Hunters;4;Standard Hunters;6;Standard Hunters;8;Standard Hunters
+37;4;Standard Hunters;4;Standard Hunters;6;Standard Hunters;8;Standard Hunters
+38;4;Standard Hunters;4;Standard Hunters;6;Standard Hunters;8;Standard Hunters
+39;4;Standard Hunters;4;Standard Hunters;6;Standard Hunters;8;Standard Hunters
+40;4;Standard Hunters;4;Standard Hunters;6;Standard Hunters;8;Standard Hunters
+41;1;Spoiler Abomination;1;Spoiler Abomination;1;Spoiler Abomination;1;Spoiler Abomination
+42;1;Spoiler Abomination;1;Spoiler Abomination;1;Spoiler Abomination;1;Spoiler Abomination
+43;1;Spoiler Abomination;1;Spoiler Abomination;1;Spoiler Abomination;1;Spoiler Abomination
+44;1;Spoiler Abomination;1;Spoiler Abomination;1;Spoiler Abomination;1;Spoiler Abomination
+45;1;Spoiler Abomination;1;Spoiler Abomination;1;Spoiler Abomination;1;Spoiler Abomination
+46;1;Spoiler Abomination;1;Spoiler Abomination;1;Spoiler Abomination;1;Spoiler Abomination
+47;1;Standard Workers: Mold Spawn;1;Standard Workers: Mold Spawn;1;Standard Workers: Mold Spawn;1;Standard Workers: Mold Spawn
+48;2;Standard Workers: Mold Spawn;2;Standard Workers: Mold Spawn;2;Standard Workers: Mold Spawn;2;Standard Workers: Mold Spawn
+49;2;Standard Tanks: Mold Spawn;1;Standard Tanks: Mold Spawn;1;Standard Tanks: Mold Spawn;1;Standard Tanks: Mold Spawn
+50;2;Standard Hunters: Mold Spawn;1;Standard Hunters: Mold Spawn;1;Standard Hunters: Mold Spawn;1;Standard Hunters: Mold Spawn
+51;Nothing;;Extra Activation:;All Standard Workers;Extra Activation:;All Standard Workers;Extra Activation:;All Standard Workers
+52;Nothing;;Extra Activation:;All Standard Workers;Extra Activation:;All Standard Workers;Extra Activation:;All Standard Workers
+53;Nothing;;Extra Activation:;All Standard Tanks;Extra Activation:;All Standard Tanks;Extra Activation:;All Standard Tanks
+54;Nothing;;Extra Activation:;All Standard Hunters;Extra Activation:;All Standard Hunters;Extra Activation:;All Standard Hunters
+55;1;Juggernaut Abomination;1;Juggernaut Abomination;1;Juggernaut Abomination;1;Juggernaut Abomination
+56;1;Juggernaut Abomination;1;Juggernaut Abomination;1;Juggernaut Abomination;1;Juggernaut Abomination
+57;1;Juggernaut Abomination;1;Juggernaut Abomination;1;Juggernaut Abomination;1;Juggernaut Abomination
+58;1;Juggernaut Abomination;1;Juggernaut Abomination;1;Juggernaut Abomination;1;Juggernaut Abomination
+59;1;Juggernaut Abomination;1;Juggernaut Abomination;1;Juggernaut Abomination;1;Juggernaut Abomination
+60;1;Juggernaut Abomination;1;Juggernaut Abomination;1;Juggernaut Abomination;1;Juggernaut Abomination
+61;2;Driller Workers;4;Driller Workers;6;Driller Workers;8;Driller Workers
+62;2;Driller Workers;4;Driller Workers;6;Driller Workers;8;Driller Workers
+63;2;Driller Workers;4;Driller Workers;6;Driller Workers;8;Driller Workers
+64;2;Driller Workers;4;Driller Workers;6;Driller Workers;8;Driller Workers
+65;2;Driller Workers;4;Driller Workers;6;Driller Workers;8;Driller Workers
+66;2;Driller Workers;4;Driller Workers;6;Driller Workers;8;Driller Workers
+67;2;Driller Tanks;2;Driller Tanks;6;Driller Tanks;8;Driller Tanks
+68;2;Driller Tanks;2;Driller Tanks;6;Driller Tanks;8;Driller Tanks
+69;2;Driller Tanks;2;Driller Tanks;6;Driller Tanks;8;Driller Tanks
+70;2;Driller Tanks;2;Driller Tanks;6;Driller Tanks;8;Driller Tanks
+71;2;Driller Hunters;2;Driller Hunters;6;Driller Hunters;8;Driller Hunters
+72;2;Driller Hunters;2;Driller Hunters;6;Driller Hunters;8;Driller Hunters
+73;2;Driller Hunters;2;Driller Hunters;6;Driller Hunters;8;Driller Hunters
+74;2;Driller Hunters;2;Driller Hunters;6;Driller Hunters;8;Driller Hunters
+75;2;Driller Hunters;2;Driller Hunters;6;Driller Hunters;8;Driller Hunters
+76;1;Driller Abomination;1;Driller Abomination;1;Driller Abomination;1;Driller Abomination
+77;1;Driller Abomination;1;Driller Abomination;1;Driller Abomination;1;Driller Abomination
+78;1;Driller Abomination;1;Driller Abomination;1;Driller Abomination;1;Driller Abomination
+79;1;Driller Abomination;1;Driller Abomination;1;Driller Abomination;1;Driller Abomination
+80;1;Driller Abomination;1;Driller Abomination;1;Driller Abomination;1;Driller Abomination
+81;1;Driller Abomination;1;Driller Abomination;1;Driller Abomination;1;Driller Abomination
+82;1;Driller Worker;1;Driller Worker;1;Driller Worker;1;Driller Worker
+83;2;Driller Workers;2;Driller Workers;2;Driller Workers;2;Driller Workers
+84;2;Driller Tank;1;Driller Tank;1;Driller Tank;1;Driller Tank
+85;2;Driller Hunters;1;Driller Hunter;1;Driller Hunter;1;Driller Hunter
+86;4;Driller Workers;6;Driller Workers;8;Driller Workers;10;Driller Workers
+87;4;Driller Workers;6;Driller Workers;8;Driller Workers;10;Driller Workers
+88;4;Driller Workers;6;Driller Workers;8;Driller Workers;10;Driller Workers
+89;4;Driller Workers;6;Driller Workers;8;Driller Workers;10;Driller Workers
+90;4;Driller Workers;6;Driller Workers;8;Driller Workers;10;Driller Workers
+91;4;Driller Workers;6;Driller Workers;8;Driller Workers;10;Driller Workers
+92;4;Driller Tanks;4;Driller Tanks;6;Driller Tanks;8;Driller Tanks
+93;4;Driller Tanks;4;Driller Tanks;6;Driller Tanks;8;Driller Tanks
+94;4;Driller Tanks;4;Driller Tanks;6;Driller Tanks;8;Driller Tanks
+95;4;Driller Tanks;4;Driller Tanks;6;Driller Tanks;8;Driller Tanks
+96;4;Driller Hunters;4;Driller Hunters;6;Driller Hunters;8;Driller Hunters
+97;4;Driller Hunters;4;Driller Hunters;6;Driller Hunters;8;Driller Hunters
+98;4;Driller Hunters;4;Driller Hunters;6;Driller Hunters;8;Driller Hunters
+99;4;Driller Hunters;4;Driller Hunters;6;Driller Hunters;8;Driller Hunters
+100;4;Driller Hunters;4;Driller Hunters;6;Driller Hunters;8;Driller Hunters
+101;1;Driller Abomination;1;Driller Abomination;1;Driller Abomination;1;Driller Abomination
+102;1;Driller Abomination;1;Driller Abomination;1;Driller Abomination;1;Driller Abomination
+103;1;Driller Abomination;1;Driller Abomination;1;Driller Abomination;1;Driller Abomination
+104;1;Driller Abomination;1;Driller Abomination;1;Driller Abomination;1;Driller Abomination
+105;1;Driller Abomination;1;Driller Abomination;1;Driller Abomination;1;Driller Abomination
+106;1;Driller Abomination;1;Driller Abomination;1;Driller Abomination;1;Driller Abomination
+107;1;Driller Workers: Pit Spawn;1;Driller Workers: Pit Spawn;1;Driller Workers: Pit Spawn;1;Driller Workers: Pit Spawn
+108;2;Driller Workers: Pit Spawn;2;Driller Workers: Pit Spawn;2;Driller Workers: Pit Spawn;2;Driller Workers: Pit Spawn
+109;2;Driller Tanks: Pit Spawn;1;Driller Tanks: Pit Spawn;1;Driller Tanks: Pit Spawn;1;Driller Tanks: Pit Spawn
+110;2;Driller Hunters:: Pit Spawn;1;Driller Hunters:: Pit Spawn;1;Driller Hunters:: Pit Spawn;1;Driller Hunters:: Pit Spawn
+111;Nothing;;Extra Activation:;All Driller Workers;Extra Activation:;All Driller Workers;Extra Activation:;All Driller Workers
+112;Nothing;;Extra Activation:;All Driller Workers;Extra Activation:;All Driller Workers;Extra Activation:;All Driller Workers
+113;Nothing;;Extra Activation:;All Driller Tanks;Extra Activation:;All Driller Tanks;Extra Activation:;All Driller Tanks
+114;Nothing;;Extra Activation:;All Driller Hunters;Extra Activation:;All Driller Hunters;Extra Activation:;All Driller Hunters
+115;1;Driller Blitzer;2;Driller Blitzers;3;Driller Blitzers;4;Driller Blitzers
+116;1;Driller Blitzer;2;Driller Blitzers;3;Driller Blitzers;4;Driller Blitzers
+117;1;Driller Blitzer;2;Driller Blitzers;3;Driller Blitzers;4;Driller Blitzers
+118;2;Driller Blitzers;2;Driller Blitzers;4;Driller Blitzers;6;Driller Blitzers
+119;2;Driller Blitzers;2;Driller Blitzers;4;Driller Blitzers;6;Driller Blitzers
+120;2;Driller Blitzers;2;Driller Blitzers;4;Driller Blitzers;6;Driller Blitzers
+121;1;Babyface Abomination;1;Babyface Abomination;1;Babyface Abomination;1;Babyface Abomination
+122;1;Babyface Abomination;1;Babyface Abomination;1;Babyface Abomination;1;Babyface Abomination
+123;1;Babyface Abomination;1;Babyface Abomination;1;Babyface Abomination;1;Babyface Abomination
+124;1;Babyface Abomination;1;Babyface Abomination;1;Babyface Abomination;1;Babyface Abomination
+125;1;BuddyBot Abomination;1;BuddyBot Abomination;1;BuddyBot Abomination;1;BuddyBot Abomination
+126;1;BuddyBot Abomination;1;BuddyBot Abomination;1;BuddyBot Abomination;1;BuddyBot Abomination
+127;1;BuddyBot Abomination;1;BuddyBot Abomination;1;BuddyBot Abomination;1;BuddyBot Abomination
+128;1;BuddyBot Abomination;1;BuddyBot Abomination;1;BuddyBot Abomination;1;BuddyBot Abomination
+129;1;I.R.I.S Sentry Gun Abomination;1;I.R.I.S Sentry Gun Abomination;1;I.R.I.S Sentry Gun Abomination;1;I.R.I.S Sentry Gun Abomination
+130;1;I.R.I.S Sentry Gun Abomination;1;I.R.I.S Sentry Gun Abomination;1;I.R.I.S Sentry Gun Abomination;1;I.R.I.S Sentry Gun Abomination
+131;1;I.R.I.S Sentry Gun Abomination;1;I.R.I.S Sentry Gun Abomination;1;I.R.I.S Sentry Gun Abomination;1;I.R.I.S Sentry Gun Abomination
+132;1;I.R.I.S Sentry Gun Abomination;1;I.R.I.S Sentry Gun Abomination;1;I.R.I.S Sentry Gun Abomination;1;I.R.I.S Sentry Gun Abomination
+133;1;Mother-In-Law Abomination;1;Mother-In-Law Abomination;1;Mother-In-Law Abomination;1;Mother-In-Law Abomination
+134;1;Mother-In-Law Abomination;1;Mother-In-Law Abomination;1;Mother-In-Law Abomination;1;Mother-In-Law Abomination
+135;1;Mother-In-Law Abomination;1;Mother-In-Law Abomination;1;Mother-In-Law Abomination;1;Mother-In-Law Abomination
+136;1;Mother-In-Law Abomination;1;Mother-In-Law Abomination;1;Mother-In-Law Abomination;1;Mother-In-Law Abomination
+137;1;Shadow Abomination;1;Shadow Abomination;1;Shadow Abomination;1;Shadow Abomination
+138;1;Shadow Abomination;1;Shadow Abomination;1;Shadow Abomination;1;Shadow Abomination
+139;1;Shadow Abomination;1;Shadow Abomination;1;Shadow Abomination;1;Shadow Abomination
+140;1;Shadow Abomination;1;Shadow Abomination;1;Shadow Abomination;1;Shadow Abomination
+141;1;Stomper Abomination;1;Stomper Abomination;1;Stomper Abomination;1;Stomper Abomination
+142;1;Stomper Abomination;1;Stomper Abomination;1;Stomper Abomination;1;Stomper Abomination
+143;1;Stomper Abomination;1;Stomper Abomination;1;Stomper Abomination;1;Stomper Abomination
+144;1;Stomper Abomination;1;Stomper Abomination;1;Stomper Abomination;1;Stomper Abomination
+145;1;Stomper Abomination;1;Stomper Abomination;1;Stomper Abomination;1;Stomper Abomination
+146;1;Stomper Abomination;1;Stomper Abomination;1;Stomper Abomination;1;Stomper Abomination
+147;1;Widowmaker Abomination;1;Widowmaker Abomination;1;Widowmaker Abomination;1;Widowmaker Abomination
+148;1;Widowmaker Abomination;1;Widowmaker Abomination;1;Widowmaker Abomination;1;Widowmaker Abomination
+149;1;Widowmaker Abomination;1;Widowmaker Abomination;1;Widowmaker Abomination;1;Widowmaker Abomination
+150;1;Widowmaker Abomination;1;Widowmaker Abomination;1;Widowmaker Abomination;1;Widowmaker Abomination
+151;2;Flingers;4;Flingers;6;Flingers;8;Flingers
+152;2;Flingers;4;Flingers;6;Flingers;8;Flingers
+153;2;Flingers;4;Flingers;6;Flingers;8;Flingers
+154;2;Flingers;4;Flingers;6;Flingers;8;Flingers
+155;2;Flingers;4;Flingers;6;Flingers;8;Flingers
+156;2;Flingers;4;Flingers;6;Flingers;8;Flingers
+157;2;Seeker Workers;4;Seeker Workers;6;Seeker Workers;8;Seeker Workers
+158;2;Seeker Workers;4;Seeker Workers;6;Seeker Workers;8;Seeker Workers
+159;2;Seeker Workers;4;Seeker Workers;6;Seeker Workers;8;Seeker Workers
+160;2;Seeker Workers;4;Seeker Workers;6;Seeker Workers;8;Seeker Workers
+161;2;Seeker Workers;4;Seeker Workers;6;Seeker Workers;8;Seeker Workers
+162;2;Seeker Workers;4;Seeker Workers;6;Seeker Workers;8;Seeker Workers
+163;2;Seeker Workers;4;Seeker Workers;6;Seeker Workers;8;Seeker Workers
+164;2;Seeker Workers;4;Seeker Workers;6;Seeker Workers;8;Seeker Workers
+165;2;Seeker Workers;4;Seeker Workers;6;Seeker Workers;8;Seeker Workers
+166;1;Seeker Worker;1;Seeker Worker;1;Seeker Worker;1;Seeker Worker
+167;1;Seeker Worker;1;Seeker Worker;1;Seeker Worker;1;Seeker Worker
+168;2;Xenomoths;4;Xenomoths;6;Xenomoths;8;Xenomoths
+169;2;Xenomoths;4;Xenomoths;6;Xenomoths;8;Xenomoths
+170;2;Xenomoths;4;Xenomoths;6;Xenomoths;8;Xenomoths
+171;2;Xenomoths;4;Xenomoths;6;Xenomoths;8;Xenomoths
+172;2;Xenomoths;4;Xenomoths;6;Xenomoths;8;Xenomoths
+173;2;Xenomoths;4;Xenomoths;6;Xenomoths;8;Xenomoths
+174;1;Brood Mother Abomination;1;Brood Mother Abomination;1;Brood Mother Abomination;1;Brood Mother Abomination
+175;1;Brood Mother Abomination;1;Brood Mother Abomination;1;Brood Mother Abomination;1;Brood Mother Abomination
+176;1;Brood Mother Abomination;1;Brood Mother Abomination;1;Brood Mother Abomination;1;Brood Mother Abomination
+177;1;Brood Mother Abomination;1;Brood Mother Abomination;1;Brood Mother Abomination;1;Brood Mother Abomination
+178;1;Brood Mother Abomination;1;Brood Mother Abomination;1;Brood Mother Abomination;1;Brood Mother Abomination
+179;1;Brood Mother Abomination;1;Brood Mother Abomination;1;Brood Mother Abomination;1;Brood Mother Abomination
+180;1;Xenium Horror Abomination;1;Xenium Horror Abomination;1;Xenium Horror Abomination;1;Xenium Horror Abomination
+181;1;Xenium Horror Abomination;1;Xenium Horror Abomination;1;Xenium Horror Abomination;1;Xenium Horror Abomination
+182;1;Xenium Horror Abomination;1;Xenium Horror Abomination;1;Xenium Horror Abomination;1;Xenium Horror Abomination
+183;1;Xenium Horror Abomination;1;Xenium Horror Abomination;1;Xenium Horror Abomination;1;Xenium Horror Abomination
+184;1;Driller Blitzer;2;Driller Blitzers;3;Driller Blitzers;4;Driller Blitzers
+185;1;Driller Blitzer;2;Driller Blitzers;3;Driller Blitzers;4;Driller Blitzers
+186;1;Driller Blitzer;2;Driller Blitzers;3;Driller Blitzers;4;Driller Blitzers
+187;2;Driller Blitzers;2;Driller Blitzers;4;Driller Blitzers;6;Driller Blitzers
+188;2;Driller Blitzers;2;Driller Blitzers;4;Driller Blitzers;6;Driller Blitzers
+189;2;Driller Blitzers;2;Driller Blitzers;4;Driller Blitzers;6;Driller Blitzers
+190;2;Flingers;4;Flingers;6;Flingers;8;Flingers
+191;2;Flingers;4;Flingers;6;Flingers;8;Flingers
+192;2;Flingers;4;Flingers;6;Flingers;8;Flingers
+193;2;Flingers;4;Flingers;6;Flingers;8;Flingers
+194;2;Flingers;4;Flingers;6;Flingers;8;Flingers
+195;2;Flingers;4;Flingers;6;Flingers;8;Flingers
+196;2;Seeker Workers;4;Seeker Workers;6;Seeker Workers;8;Seeker Workers
+197;2;Seeker Workers;4;Seeker Workers;6;Seeker Workers;8;Seeker Workers
+198;2;Seeker Workers;4;Seeker Workers;6;Seeker Workers;8;Seeker Workers
+199;2;Seeker Workers;4;Seeker Workers;6;Seeker Workers;8;Seeker Workers
+200;2;Seeker Workers;4;Seeker Workers;6;Seeker Workers;8;Seeker Workers
+201;2;Seeker Workers;4;Seeker Workers;6;Seeker Workers;8;Seeker Workers
+202;2;Seeker Workers;4;Seeker Workers;6;Seeker Workers;8;Seeker Workers
+203;2;Seeker Workers;4;Seeker Workers;6;Seeker Workers;8;Seeker Workers
+204;2;Seeker Workers;4;Seeker Workers;6;Seeker Workers;8;Seeker Workers
+205;1;Seeker Worker;1;Seeker Worker;1;Seeker Worker;1;Seeker Worker
+206;1;Seeker Worker;1;Seeker Worker;1;Seeker Worker;1;Seeker Worker
+207;2;Xenomoths;4;Xenomoths;6;Xenomoths;8;Xenomoths
+208;2;Xenomoths;4;Xenomoths;6;Xenomoths;8;Xenomoths
+209;2;Xenomoths;4;Xenomoths;6;Xenomoths;8;Xenomoths
+210;2;Xenomoths;4;Xenomoths;6;Xenomoths;8;Xenomoths
+211;2;Xenomoths;4;Xenomoths;6;Xenomoths;8;Xenomoths
+212;2;Xenomoths;4;Xenomoths;6;Xenomoths;8;Xenomoths

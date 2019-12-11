@@ -1,51 +1,55 @@
 ---
 layout: page
 ---
+<head>
+	<link rel="stylesheet" type="text/css" href="src/css/style.css">
+</head>
+<body>
+	<h1>Zombicide Spawn Deck</h1>
 
-<h1>Zombicide Spawn Deck</h1>
+	<form>
+		<h3>Select Zombicide boxes :</h3>
+		<input type="checkbox" name="All">Select All<br/><br/>
 
-<form>
-	<h3>Select Zombicide boxes :</h3>
-	<input type="checkbox" name="All">Select All<br/><br/>
+		Boxes :<br/>
+		<input type="checkbox" name="Invader">Invader<br/>
+		<input type="checkbox" name="Black_Ops">Black Ops<br/>
+		<input type="checkbox" name="Dark_Side">Dark Side<br/><br/>
 
-	Boxes :<br/>
-	<input type="checkbox" name="Invader">Invader<br/>
-	<input type="checkbox" name="Black_Ops">Black Ops<br/>
-	<input type="checkbox" name="Dark_Side">Dark Side<br/><br/>
+		Exclusive content :<br/>
+		<input type="checkbox" name="Promo_Xenos">Promo Xenos<br/>
+		<input type="checkbox" name="Promo_Seekers" class="sub">Seekers<br/>
+		<input type="checkbox" name="Promo_Xenomoths" class="sub">Xenomoths<br/>
+		<input type="checkbox" name="Promo_Flinger" class="sub">Flingers<br/>
+		<input type="checkbox" name="Promo_Blitzer" class="sub">Blitzers<br/>
 
-	Exclusive content :<br/>
-	<input type="checkbox" name="Promo_Xenos">Promo Xenos<br/>
-	<input type="checkbox" name="Promo_Seekers" class="sub">Seekers<br/>
-	<input type="checkbox" name="Promo_Xenomoths" class="sub">Xenomoths<br/>
-	<input type="checkbox" name="Promo_Flinger" class="sub">Flingers<br/>
-	<input type="checkbox" name="Promo_Blitzer" class="sub">Blitzers<br/>
+		<input type="checkbox" name="Civilian_Exclusives">Civilian Exclusives<br/>
+		<input type="checkbox" name="Civilian_Seekers" class="sub">Seekers<br/>
+		<input type="checkbox" name="Civilian_Xenomoths" class="sub">Xenomoths<br/>
+		<input type="checkbox" name="Civilian_Flinger" class="sub">Flingers<br/>
+		<input type="checkbox" name="Civilian_Blitzer" class="sub">Blitzers<br/>
+		<input type="checkbox" name="Babyface Abomination" class="sub">Babyface Abomination<br/>
+		<input type="checkbox" name="Babyface Abomination" class="sub">Buddy Bot Abomination<br/>
+		<input type="checkbox" name="IRIS_Sentry_Gun_Abomination" class="sub">I.R.I.S Sentry Gun Abomination<br/>
+		<input type="checkbox" name="Mother-In-Law_Abomination" class="sub">Mother-In-Law Abomination<br/>
+		<input type="checkbox" name="Widowmaker_Abomination" name="Mother-In-Law_Abomination" class="sub">Widowmaker Abomination<br/>
+		<input type="checkbox" name="Stomper_Abomination" class="sub">Stomper Abomination<br/>
+		<input type="checkbox" name="Shadow_Abomination" class="sub">Shadow Abomination<br/>
 
-	<input type="checkbox" name="Civilian_Exclusives">Civilian Exclusives<br/>
-	<input type="checkbox" name="Civilian_Seekers" class="sub">Seekers<br/>
-	<input type="checkbox" name="Civilian_Xenomoths" class="sub">Xenomoths<br/>
-	<input type="checkbox" name="Civilian_Flinger" class="sub">Flingers<br/>
-	<input type="checkbox" name="Civilian_Blitzer" class="sub">Blitzers<br/>
-	<input type="checkbox" name="Babyface Abomination" class="sub">Babyface Abomination<br/>
-	<input type="checkbox" name="Babyface Abomination" class="sub">Buddy Bot Abomination<br/>
-	<input type="checkbox" name="IRIS_Sentry_Gun_Abomination" class="sub">I.R.I.S Sentry Gun Abomination<br/>
-	<input type="checkbox" name="Mother-In-Law_Abomination" class="sub">Mother-In-Law Abomination<br/>
-	<input type="checkbox" name="Widowmaker_Abomination" name="Mother-In-Law_Abomination" class="sub">Widowmaker Abomination<br/>
-	<input type="checkbox" name="Stomper_Abomination" class="sub">Stomper Abomination<br/>
-	<input type="checkbox" name="Shadow_Abomination" class="sub">Shadow Abomination<br/>
-
-	<input type="checkbox" name="Soldier_Exclusives">Soldier Exclusives<br/>
-	<input type="checkbox" name="Brood_Mother_Abomination" class="sub">Brood Mother Abomination<br/>
-	<input type="checkbox" name="Xenium_Horror_Abomination" class="sub">Xenium Horror Abomination<br/>
+		<input type="checkbox" name="Soldier_Exclusives">Soldier Exclusives<br/>
+		<input type="checkbox" name="Brood_Mother_Abomination" class="sub">Brood Mother Abomination<br/>
+		<input type="checkbox" name="Xenium_Horror_Abomination" class="sub">Xenium Horror Abomination<br/>
 
 
-</form>
+	</form>
 
-<form id="form_danger_level" name="danger_level">
-	<h3>Danger level :</h3>
-	<input type="radio" name="danger_level" value="blue" checked/>Blue
-	<input type="radio" name="danger_level" value="yellow"/>Yellow
-	<input type="radio" name="danger_level" value="orange"/>Orange
-	<input type="radio" name="danger_level" value="red"/>Red
-</form>
-<br/>
-<input type="button" name="draw" value="Draw"/>
+	<form id="form_danger_level" name="danger_level">
+		<h3>Danger level :</h3>
+		<input type="radio" name="danger_level" value="blue" checked/>Blue
+		<input type="radio" name="danger_level" value="yellow"/>Yellow
+		<input type="radio" name="danger_level" value="orange"/>Orange
+		<input type="radio" name="danger_level" value="red"/>Red
+	</form>
+	<br/>
+	<input type="button" name="draw" value="Draw"/>
+</body>
